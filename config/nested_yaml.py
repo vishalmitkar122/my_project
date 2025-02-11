@@ -1,7 +1,7 @@
 import yaml
 
 # Open and load the YAML file
-with open('config1.yaml', 'r') as file:
+with open('config2.yaml', 'r') as file:
     config = yaml.safe_load(file)  # Correct variable name
 
 # Extract and print database configuration

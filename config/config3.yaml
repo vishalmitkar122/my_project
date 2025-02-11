@@ -1,0 +1,6 @@
+
+   services:
+     - name: Service A
+       url: http://service-a.com
+     - name: Service B
+       url: http://service-b.com

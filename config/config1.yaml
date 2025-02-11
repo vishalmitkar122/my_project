@@ -1,6 +1,4 @@
-database :
+app_name: MyApplication
+version: 1.0.0
+author: John Doe
 
- host : localhost
- port : 5432
- user : admin
- password : secret
