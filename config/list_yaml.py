@@ -10,4 +10,4 @@ services = config.get("services", [])
 for service in services:
     name = service.get("name", "Unknown")
     url = service.get("url", "Unknown")
-    print(f"Service Name: {name}, URL: {url}")
+    print(f"Service Name: {name},URL:{url}")

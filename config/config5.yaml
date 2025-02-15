@@ -1,0 +1,11 @@
+app:
+name: MyComplexApp
+  components: auth:
+      enabled: true
+      method: oauth2
+    cache:
+      enabled: true
+      type: redis
+      config:
+        host: cache.local
+port: 6379
