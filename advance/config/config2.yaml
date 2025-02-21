@@ -1,0 +1,11 @@
+app :
+
+  name : AdvanceApp
+
+  mode : production
+
+database :
+
+  host : db.prod.local
+
+  port : 5432

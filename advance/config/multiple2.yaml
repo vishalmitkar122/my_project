@@ -1,0 +1,9 @@
+app:
+  debug: true
+
+database:
+  port: 3306
+
+logging:
+  level: DEBUG
+  file: app_debug.log
