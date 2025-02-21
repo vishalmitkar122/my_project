@@ -1,0 +1,11 @@
+{
+
+  "services":[
+
+  {"name": "ServiceA", "url": "http://service-a.local"},
+
+  {"name": "ServiceB", "url": "http://service-b.local"}
+
+]
+
+}
